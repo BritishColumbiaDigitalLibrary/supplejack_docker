@@ -1,6 +1,6 @@
 [submodule "manager"]
 	path = manager
-	url = git@github.com:BritishColumbiaDigitalLibrary//supplejack_manager.git
+	url = git@github.com:BritishColumbiaDigitalLibrary/supplejack_manager.git
 [submodule "worker"]
 	path = worker
-	url = git@github.com:BritishColumbiaDigitalLibrary//supplejack_worker.git
+	url = git@github.com:BritishColumbiaDigitalLibrary/supplejack_worker.git
